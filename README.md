@@ -1,5 +1,4 @@
-# MAGIC-VQA: Multimodal And Grounded Inference 
-# with Commonsense Knowledge for Visual Question Answering
+# MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering
 
 
 <div align="center">
